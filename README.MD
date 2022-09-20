@@ -17,7 +17,7 @@ The basic libraries required for the notebooks are: pandas, numpy, datetime, os,
 
 Prof. Foster Provost - NYU Stern School of Business [Website](http://people.stern.nyu.edu/fprovost/)
 
-Pearl Yu [Contact](https://www.notion.so/pearlyu/Pearl-Peiyan-Yu-1fff9a63a0a949228bd79ad97679bad8)
+Pearl Yu [Contact](py571@stern.nyu.edu)
 
 These notebooks are based on the prior work (w/Prof. Provost) of: 
 Ben Wolfson [Contact](https://www.linkedin.com/in/ben-wolfson-61925a87/)
